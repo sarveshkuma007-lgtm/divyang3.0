@@ -1,0 +1,6 @@
+{
+  "name": "Divyang Drishti & Sparsh - Universal Assistive Ecosystem",
+  "description": "Comprehensive assistive platform for deaf, blind, mute, and deaf-blind individuals featuring voice-guided navigation, haptic guidance, real-time sign language translation, privacy-aware scanner, VR sensory spatial navigation, and wearable synchronization.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
